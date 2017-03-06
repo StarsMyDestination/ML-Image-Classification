@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+cifar-10-batches-py/
+*.gz
+*.log
+checkpoint
+*.p
+
